@@ -1,6 +1,6 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # AS198016 Geofeed,lastupdated (rfc3339): 2023-10-11T18:00:00
-# prefix,country_code,region_code,city,postal
+# prefix,country_code,region_code,city,postal,
 2a07:54c7:2000::/36,DE,DE-HE,Frankfurt,,
 2a0e:97c0:d00::/44,DE,DE-HE,Frankfurt,,
 2a0e:b107:121::/48,DE,DE-HE,Frankfurt,,
